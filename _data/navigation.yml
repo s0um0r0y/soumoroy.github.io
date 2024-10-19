@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=j1RNdMsAAAAJ&hl=en&oi=ao
+    url: /publication/
 
   # - title: "Talks"
   #   url: /talks/    
