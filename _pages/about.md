@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Hi, I am Soumo Roy"
+title: "Soumo Roy"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+======
 About Me
 ======
 I am Soumo Roy, a passionate robotics and AI enthusiast currently pursuing my B.Tech in Electronics and Communication Engineering at VIT Vellore. With hands-on experience across various domains of robotics, automation, and machine learning, I have had the privilege of working on cutting-edge research and industrial projects at esteemed institutions like IIT Kanpur and NIT Silchar, as well as leading tech startups like Unbox Robotics. My key areas of interest include sensor fusion, reinforcement learning, and human-robot collaboration, with a particular focus on creating intelligent systems that improve efficiency and interaction between humans and machines.
