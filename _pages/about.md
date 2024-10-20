@@ -7,18 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-======
-About Me
-======
 I am Soumo Roy, a passionate robotics and AI enthusiast currently pursuing my B.Tech in Electronics and Communication Engineering at VIT Vellore. With hands-on experience across various domains of robotics, automation, and machine learning, I have had the privilege of working on cutting-edge research and industrial projects at esteemed institutions like IIT Kanpur and NIT Silchar, as well as leading tech startups like Unbox Robotics. My key areas of interest include sensor fusion, reinforcement learning, and human-robot collaboration, with a particular focus on creating intelligent systems that improve efficiency and interaction between humans and machines.
 
 Work Experience
 ======
 [NIT Silchar – SN Bose Summer Research Intern (July 2024 – August 2024)](http://www.nits.ac.in/)
-At NIT Silchar’s Advanced Robotics Research Lab, I worked on developing a shape memory alloy (SMA) based assistive robotic glove to help patients with wrist mobility issues. This project enhanced my understanding of adaptive materials and robotics for healthcare applications.
+At NIT Silchar’s Advanced Robotics Research Lab under [Dr. Yogesh Singh](http://me.nits.ac.in/dr-y-singh/), I worked on developing a shape memory alloy (SMA) based assistive robotic glove to help patients with wrist mobility issues. This project enhanced my understanding of adaptive materials and robotics for healthcare applications.
 
 [IIT Kanpur – SURGE Research Intern (May 2024 – July 2024)](https://home.iitk.ac.in/~sandhan/)
-During my internship at the Intelligent System Control Lab, IIT Kanpur, I focused on human-robot collaboration using imitation learning with the UR5 collaborative robot and Intel RealSense cameras. This experience strengthened my skills in reinforcement learning and human-robot interaction for tasks like heavy object lifting.
+During my internship at the Intelligent System Control Lab under [Dr. Tushar Sandhan](https://home.iitk.ac.in/~sandhan/), IIT Kanpur, I focused on human-robot collaboration using imitation learning with the UR5 collaborative robot and Intel RealSense cameras. This experience strengthened my skills in reinforcement learning and human-robot interaction for tasks like heavy object lifting.
 
 [Unbox Robotics – Robotics System Validation Intern (Aug 2023 – Nov 2023)](https://www.unboxrobotics.com/)
 At Unbox Robotics, I contributed to the development of multi-agent robotic systems for industrial automation. I worked on hardware validation of systems including conveyor belts, battery management systems, and scissor lift mechanisms, and automated testing processes using WebDriver.io, JavaScript, Docker, and GitLab CI/CD pipelines.
@@ -39,15 +36,15 @@ At the G.D. Naidu Robotics Lab, I worked on a sensor fusion project to combine L
 
 Publications
 ======
-"Adaptive Robotic Manipulator Simulation for Enhanced Feeding and Drinking Assistance"
+["Adaptive Robotic Manipulator Simulation for Enhanced Feeding and Drinking Assistance"](https://drive.google.com/file/d/1tpSSIhH70C_o1FXUUdPjzPp4xVIn4eAu/view?usp=sharing)
 Submitted to IEEE INDICON 2024
 This paper discusses my research on robotic manipulators for assistive feeding tasks, highlighting the use of reinforcement learning for motion optimization in complex environments.
 
-"SKIDS: An Object Classification and Smart Communication-based Waste Bin"
+["SKIDS: An Object Classification and Smart Communication-based Waste Bin"](https://drive.google.com/file/d/13mqFshndAoBhFFp9LLuMYx3eq40I_ME-/view?usp=sharing)
 Published at IEEE AIIoT 2024
 This work focuses on smart object classification using machine learning techniques for waste management systems.
 
-"Novel Ensemble Sentiment Classification through Speech Processing and Stacking Generalization"
+["Novel Ensemble Sentiment Classification through Speech Processing and Stacking Generalization"](https://drive.google.com/file/d/1NHFhxT6kZ5IUqvPuXwbyoP6MS2NntR8r/view?usp=sharing)
 Published at IEEE ICECSP 2024
 This paper introduces an innovative method for speech sentiment analysis, by employing a stacking classifier. The proposed system directly transcribes audio and extracts essential features for sentiment analysis. 
 
