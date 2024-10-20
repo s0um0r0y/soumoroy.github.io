@@ -7,7 +7,62 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+About Me
+======
+I am Soumo Roy, a passionate robotics and AI enthusiast currently pursuing my B.Tech in Electronics and Communication Engineering at VIT Vellore. With hands-on experience across various domains of robotics, automation, and machine learning, I have had the privilege of working on cutting-edge research and industrial projects at esteemed institutions like IIT Kanpur and NIT Silchar, as well as leading tech startups like Unbox Robotics. My key areas of interest include sensor fusion, reinforcement learning, and human-robot collaboration, with a particular focus on creating intelligent systems that improve efficiency and interaction between humans and machines.
+
+Work Experience
+======
+NIT Silchar – SN Bose Summer Research Intern (July 2024 – August 2024)
+At NIT Silchar’s Advanced Robotics Research Lab, I worked on developing a shape memory alloy (SMA) based assistive robotic glove to help patients with wrist mobility issues. This project enhanced my understanding of adaptive materials and robotics for healthcare applications.
+
+IIT Kanpur – SURGE Research Intern (May 2024 – July 2024)
+During my internship at the Intelligent System Control Lab, IIT Kanpur, I focused on human-robot collaboration using imitation learning with the UR5 collaborative robot and Intel RealSense cameras. This experience strengthened my skills in reinforcement learning and human-robot interaction for tasks like heavy object lifting.
+
+Unbox Robotics – Robotics System Validation Intern (Aug 2023 – Nov 2023)
+At Unbox Robotics, I contributed to the development of multi-agent robotic systems for industrial automation. I worked on hardware validation of systems including conveyor belts, battery management systems, and scissor lift mechanisms, and automated testing processes using WebDriver.io, JavaScript, Docker, and GitLab CI/CD pipelines.
+
+Key Projects
+======
+Spoon Feeder ROS (ROS1, OpenAI Gym, PyTorch)
+This project focused on developing and evaluating a robotic manipulator system designed to provide feeding and drinking assistance to individuals with physical impairments. I worked with robotic arms like Jaco, Sawyer, and Baxter, comparing reinforcement learning algorithms such as PPO, SAC, and DDPG to optimize task performance.
+
+Cosmo Logic (ROS2, Gazebo, Moveit2, OpenCV)
+As part of the IIT Bombay e-Yantra robotics competition, I developed an algorithm for the UR5 robot to pick and stack boxes using Moveit2, and created navigation algorithms for a mobile robot using Nav2 for collaborative tasks.
+
+Sentinel Drone (ROS-Gazebo, OpenCV, Pyplot)
+I led the development of an autonomous drone designed to detect objects in occluded environments using QGIS API and georeferencing. This project involved designing PID controllers to stabilize the drone and creating an algorithm for scanning large areas autonomously.
+
+Sensor Fusion on Turtlebot2 (ROS, OpenCV, RVIZ)
+At the G.D. Naidu Robotics Lab, I worked on a sensor fusion project to combine LIDAR and RGBD camera data to generate 3D maps with depth information for improved navigation and obstacle detection.
+
+Skills
+======
+Programming Languages: C++, Python, R, MATLAB, JavaScript, HTML, CSS
+Technologies: ROS1, ROS2, Gazebo, OpenCV, Moveit2, RVIZ, PyTorch, TensorFlow
+Tools: Docker, GitLab CI/CD, Linux (Ubuntu), WebDriver.io, Git
+Boards: NVIDIA Jetson Nano, Intel Atom, Arduino Uno, Raspberry Pi, STM32
+
+Publications
+======
+"Adaptive Robotic Manipulator Simulation for Enhanced Feeding and Drinking Assistance"
+Submitted to IEEE INDICON 2024
+This paper discusses my research on robotic manipulators for assistive feeding tasks, highlighting the use of reinforcement learning for motion optimization in complex environments.
+
+"SKIDS: An Object Classification and Smart Communication-based Waste Bin"
+Published at IEEE AIIoT 2024
+This work focuses on smart object classification using machine learning techniques for waste management systems.
+
+"Novel Ensemble Sentiment Classification through Speech Processing and Stacking Generalization"
+Published at IEEE ICECSP 2024
+This paper introduces an innovative method for speech sentiment analysis, by employing a stacking classifier. The proposed system directly transcribes audio and extracts essential features for sentiment analysis. 
+
+Achievements
+======
+Won a Seed Grant of ₹1.5 lakh ($1790) from VIT's faculty-student project fund for developing a medical assistive robot under the supervision of Dr. Budhaditya Bhattacharyya.
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -46,4 +101,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
