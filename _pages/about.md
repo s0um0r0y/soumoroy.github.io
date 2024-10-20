@@ -14,13 +14,13 @@ I am Soumo Roy, a passionate robotics and AI enthusiast currently pursuing my B.
 
 Work Experience
 ======
-NIT Silchar – SN Bose Summer Research Intern (July 2024 – August 2024)
+[NIT Silchar – SN Bose Summer Research Intern (July 2024 – August 2024)](http://www.nits.ac.in/)
 At NIT Silchar’s Advanced Robotics Research Lab, I worked on developing a shape memory alloy (SMA) based assistive robotic glove to help patients with wrist mobility issues. This project enhanced my understanding of adaptive materials and robotics for healthcare applications.
 
-IIT Kanpur – SURGE Research Intern (May 2024 – July 2024)
+[IIT Kanpur – SURGE Research Intern (May 2024 – July 2024)](https://home.iitk.ac.in/~sandhan/)
 During my internship at the Intelligent System Control Lab, IIT Kanpur, I focused on human-robot collaboration using imitation learning with the UR5 collaborative robot and Intel RealSense cameras. This experience strengthened my skills in reinforcement learning and human-robot interaction for tasks like heavy object lifting.
 
-Unbox Robotics – Robotics System Validation Intern (Aug 2023 – Nov 2023)
+[Unbox Robotics – Robotics System Validation Intern (Aug 2023 – Nov 2023)](https://www.unboxrobotics.com/)
 At Unbox Robotics, I contributed to the development of multi-agent robotic systems for industrial automation. I worked on hardware validation of systems including conveyor belts, battery management systems, and scissor lift mechanisms, and automated testing processes using WebDriver.io, JavaScript, Docker, and GitLab CI/CD pipelines.
 
 Key Projects
@@ -36,13 +36,6 @@ I led the development of an autonomous drone designed to detect objects in occlu
 
 Sensor Fusion on Turtlebot2 (ROS, OpenCV, RVIZ)
 At the G.D. Naidu Robotics Lab, I worked on a sensor fusion project to combine LIDAR and RGBD camera data to generate 3D maps with depth information for improved navigation and obstacle detection.
-
-Skills
-======
-Programming Languages: C++, Python, R, MATLAB, JavaScript, HTML, CSS
-Technologies: ROS1, ROS2, Gazebo, OpenCV, Moveit2, RVIZ, PyTorch, TensorFlow
-Tools: Docker, GitLab CI/CD, Linux (Ubuntu), WebDriver.io, Git
-Boards: NVIDIA Jetson Nano, Intel Atom, Arduino Uno, Raspberry Pi, STM32
 
 Publications
 ======
